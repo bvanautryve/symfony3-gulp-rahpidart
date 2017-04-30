@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="167b9a67-ac8e-42dd-87c3-f75fe2815cd8" name="srv-prod2-preprod" url="http://srv-prod2.taskus.fr">
+        <fileTransfer host="srv-prod2.taskus.fr" port="19830" rootFolder="/home/preprod" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="19830" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
